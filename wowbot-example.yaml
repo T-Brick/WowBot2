@@ -5,3 +5,4 @@ id:
 commandLabel: "~"
 commandListPath: /commands.txt
 safeURLPath: /safeURLs.txt
+reactCommandsPath: /reacts.txt

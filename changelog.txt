@@ -1,0 +1,21 @@
+=== WowBot v2.0a [29.05.2020] ===
++ added playnext command
++ added repeat command
++ added leave command
++ added help command
+~ play command launches the queue
+~ queue now includes repeat button
+~ link command no longer embeds the video
+~ messages clean up after themselves more
+~ now leaves voice channels after everyone has left
+
+
+=== WowBot v2.0-A1 [09.05.2020] ===
++ added wow command
++ added quit command
++ added play command
++ added summon command
++ added queue command
++ added skip command
++ added link command
++ added pause command

@@ -1,0 +1,7 @@
+!!com.estrelsteel.wowbot.BotSettings
+token: 
+owner: 
+id: 
+commandLabel: "~"
+commandListPath: /commands.txt
+safeURLPath: /safeURLs.txt

@@ -1,0 +1,33 @@
+# id name
+# 0 	    = null command
+# 1-49	    = internal commands
+# 50-100    = administrator commands
+# 100s      = text commands
+# 1000s     = audio commands
+50 quit
+50 exit
+50 stop
+51 help
+100 wow
+100 vvovv
+100 w0w
+100 vv0vv
+100 wovv
+100 vvow
+100 w0vv
+100 vv0w
+1000 play
+1001 playnext
+1001 play!
+1001 playafter
+1010 summon
+1020 skip
+1030 queue
+1040 link
+1050 pause
+1050 resume
+1060 repeat
+1060 playagain
+1070 leave
+1070 disconnect
+1070 dc

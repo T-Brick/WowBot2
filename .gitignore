@@ -1,0 +1,20 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore compiled files
+*.jar
+*.class
+*.log
+*.command
+
+# Ignore Library/Misc files
+releases
+project/bin
+lib
+
+# Ignore user settings
+wowbot.yaml
+   
+project/.project
+project/.classpath
+project/.settings
